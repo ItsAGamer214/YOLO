@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+G-Retriever/__pycache__/
+G-Retriever/*.py[cod]
+
+G-Retriever/# C extensions
+G-Retriever/*.so
+
+# Distribution / packaging
+
+G-Retriever/bin/
+G-Retriever/build/
+G-Retriever/develop-eggs/
+G-Retriever/dist/
+G-Retriever/eggs/
+G-Retriever/lib/
+G-Retriever/lib64/
+G-Retriever/parts/
+G-Retriever/sdist/
+G-Retriever/var/
+G-Retriever/*.egg-info/
+G-Retriever/.installed.cfg
+G-Retriever/*.egg
+
+# Installer logs
+G-Retriever/pip-log.txt
+G-Retriever/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+G-Retriever/.tox/
+G-Retriever/.coverage
+G-Retriever/.cache
+G-Retriever/nosetests.xml
+G-Retriever/coverage.xml
+
+# Translations
+G-Retriever/*.mo
+
+# Mr Developer
+
+G-Retriever/.mr.developer.cfg
+G-Retriever/.project
+G-Retriever/.pydevproject
+
+# Rope
+G-Retriever/.ropeproject
+
+# Django stuff:
+G-Retriever/*.log
+G-Retriever/*.pot
+
+# Output
+G-Retriever/*.out
+G-Retriever/*.txt
+
+# Sphinx documentation
+G-Retriever/docs/_build/
+
+# dataset
+G-Retriever/#dataset/
+G-Retriever/dataset/**/[0-9]*.csv
+G-Retriever/dataset/**/*.pt
+G-Retriever/dataset/gqa/val_sceneGraphs.json
+G-Retriever/dataset/gqa/train_sceneGraphs.json
+
+# logs and results
+G-Retriever/logs/
+G-Retriever/output/
+
+# wandb
+G-Retriever/wandb/
+G-Retriever/.vscode/
