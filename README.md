@@ -1,4 +1,5 @@
 # YOLO
+You Only Look Once, a novel approach to visually impaired aids using scene graph generation and retrieval augmented generation.
 
 
 This repository contains the source code for the paper "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering".
