@@ -12,7 +12,7 @@ Check out our poster!
 We used 2xH100s and completed our training in about 10 hours. All of the training should work given you install the packages from G-Retriever
 
 
-##Setup
+## Setup
 ---
 
 STTran and G-Retriever need to be set up separately.
