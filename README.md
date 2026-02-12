@@ -63,3 +63,11 @@ Replace these values in G-Retriever
 From here, go to STTran's and G-Retrievers respective githubs and follow their READMEs.
 
 You need around 370GB of storage for both of the datasets combined
+
+
+### Participants
+
+Riyan Maknojia
+Diya
+Joel
+Thomas
